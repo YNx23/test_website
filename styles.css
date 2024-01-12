@@ -1,3 +1,9 @@
 h1 {
   font-size: 36px; /* Change the font size to your desired value */
+  color: #FF0000; /* Change the font color to your desired color */
+  font-weight: bold; /* Apply bold font style */
+}
+
+p {
+  font-style: italic; /* Apply italic font style to the paragraph */
 }
