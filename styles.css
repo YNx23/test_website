@@ -7,3 +7,36 @@ h1 {
 p {
   font-style: italic; /* Apply italic font style to the paragraph */
 }
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  margin: 0;
+  padding: 0;
+}
+
+.container {
+  max-width: 800px;
+  margin: 20px auto;
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+.cv-entry {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.year {
+  width: 100px;
+  background-color: #f2f2f2;
+  padding: 10px;
+}
+
+.description {
+  flex: 1;
+  background-color: #e6e6e6;
+  padding: 10px;
+}
